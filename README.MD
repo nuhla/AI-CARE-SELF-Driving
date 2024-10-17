@@ -19,3 +19,8 @@
 
 - if you do not want to play and record the tracks you 
  can download a dataset from this [here](https://github.com/rslim087a/track)
+
+ - just run this command 
+ ```bash
+ git clone https://github.com/rslim087a/track
+ ```
